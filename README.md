@@ -36,6 +36,13 @@
 <a href=""><img alt="" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /></a>
 
+## <> Coding platforms
+
+
+<a href = "https://leetcode.com/Veeresh_1104/" ><img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> </a>
+<a href = "https://www.hackerrank.com/veeresh_ravi" ><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black"/> </a>
+<a href = "https://auth.geeksforgeeks.org/user/veereshravi/profile" ><img alt="GeeksForGeeks" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> </a>
+
 ## 🏆 GitHub Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Veeresh-R-G&count_private=true&theme=tokyonight&showicons=true)]()
