@@ -45,9 +45,9 @@
 
 ## 🏆 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Veeresh-R-G&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Veeresh-R-G&count_private=true&theme=vue-dark&hide_border=true&showicons=true)]()
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Veeresh-R-G&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Veeresh-R-G&layout=compact&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Veeresh-R-G&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Veeresh-R-G&theme=tokyonight)](https://git.io/streak-stats)
