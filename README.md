@@ -1,4 +1,4 @@
-# Hello World, I am Veeresh <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# Hello World, I am Veeresh <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">
 
 ### Still Learning . . . 
 
