@@ -48,9 +48,11 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Veeresh-R-G&layout=compact&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Veeresh-R-G&theme=submarine-flowers&border=67FF95)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Veeresh-R-G&theme=submarine-flowers&border=67FF95)](https://git.io/streak-stats) <br/> <br/>
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Veeresh-R-G/langs)](https://githubtrends.io)
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Veeresh-R-G&theme=flag-india&hide_border=true)](https://git.io/streak-stats) -->
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Veeresh-R-G&theme=tokyonight)](https://git.io/streak-stats)
+
 
 [![Veeresh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Veeresh-R-G&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!---
