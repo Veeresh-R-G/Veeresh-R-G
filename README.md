@@ -22,9 +22,9 @@
 <a href="https://githubtrends.io"><img src="https://api.githubtrends.io/user/svg/Veeresh-R-G/langs" alt="GitHub Trends SVG"></a></p>
 <hr>
 <h2>&lt;&gt; Coding platforms</h2>
-<p><a href="leetcode"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&amp;logo=LeetCode&amp;logoColor=black" alt="leetcode-Badge"></a>  <a href="geeksforgeeks"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=white" alt="geeksforgeeks-Badge"></a></p>
+<p><a href="https://leetcode.com/Veeresh_1104/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&amp;logo=LeetCode&amp;logoColor=black" alt="leetcode"></a>  <a href="https://auth.geeksforgeeks.org/user/veereshravi/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=white" alt="geeksforgeeks"></a></p>
 <blockquote>
-<p>Enjoy a Harvey Specter Quote ➡️ When you are backed against the wall, break the goddamn thing down.</p>
+<p>Enjoy a Harvey Specter Quote ➡️ Sometimes good guys gotta do bad things to make the bad guys pay.</p>
 </blockquote>
 <hr>
 <h3>Currently Working ➡️  <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="0"></h3>
