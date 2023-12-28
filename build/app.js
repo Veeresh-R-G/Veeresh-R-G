@@ -58,9 +58,11 @@ const languages = [
 const ORMs = [
     "https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"
 ];
+const yetToAdd = [
+    "https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16",
+];
 const libraries_frameworks = [
     "https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white",
-    "https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16",
     "https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white",
     "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green",
     "https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white",
@@ -171,7 +173,10 @@ function generateMarkdown() {
   ### Currently Working ➡️ ${(0, helpers_1.general)(['https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white'])}
   
 
-  \n Reach Me : ${linkedinBadge}  ${twitterBadge}  ${profileCountBadge}\n
+  \n ${linkedinBadge}  ${twitterBadge}  ${profileCountBadge} [![Strava Badge](badge.svg)](https://www.strava.com/athletes/106308092)
+  \n
+
+  > PS: This README is auto generated using a Node.js script
   `;
         const result = md.render(markdownText);
         fs.writeFile("README.md", result, (error) => {
