@@ -1,1 +1,10 @@
-node_modules
+/node_modules
+
+./old_.md
+#Ignore the file names old_.md
+old_*.md
+#Ignore the file names old_.md and old_1.md and old_2.md
+
+old_.md
+
+
