@@ -50,7 +50,6 @@ const codingPlatforms = {
 const languages = [
     "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white",
     "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white",
-    "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white",
     "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E",
     "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue",
     "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
@@ -100,6 +99,7 @@ const databases = [
 ];
 const currentlyLearning = ["https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white",
     "https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white",
+    "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white",
 ];
 const tools = ["https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white",
     "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white",
