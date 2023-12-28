@@ -1,0 +1,25 @@
+{
+  "name": "github_automation",
+  "version": "1.0.0",
+  "description": "github readme automation",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "build:watch": "npx tsc-watch",
+    "start": "npm run build && node build/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "veeresh",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "markdown-it": "^14.0.0",
+    "rss-parser": "^3.13.0",
+    "tsc-watch": "^6.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "typescript": "^5.3.3"
+  }
+}
