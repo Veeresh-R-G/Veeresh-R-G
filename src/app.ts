@@ -12,8 +12,8 @@ import { general, codingPlatform } from "./helpers";
 
 
 const codingPlatforms = {
-  leetcode: "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black",
-  geeksforgeeks: "https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
+  leetcode: ["https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black","https://leetcode.com/Veeresh_1104/"],
+  geeksforgeeks: ["https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white","https://auth.geeksforgeeks.org/user/veereshravi/profile"],
 }
 
 const languages = [
