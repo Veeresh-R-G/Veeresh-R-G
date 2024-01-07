@@ -24,7 +24,7 @@
 <h2>&lt;&gt; Coding platforms</h2>
 <p><a href="https://leetcode.com/Veeresh_1104/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&amp;logo=LeetCode&amp;logoColor=black" alt="leetcode"></a>  <a href="https://auth.geeksforgeeks.org/user/veereshravi/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=white" alt="geeksforgeeks"></a></p>
 <blockquote>
-<p>Enjoy a Harvey Specter Quote ➡️ 97% of people who gave up are employed by the 3% who never gave up.</p>
+<p>Enjoy a Harvey Specter Quote ➡️ Congratulations, you got to walk his dog, but that doesn't mean he'll let u marry his daughter</p>
 </blockquote>
 <hr>
 <h3>Currently Working ➡️  <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="0"></h3>
