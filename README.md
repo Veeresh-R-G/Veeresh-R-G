@@ -24,11 +24,11 @@
 <h2>&lt;&gt; Coding platforms</h2>
 <p><a href="https://leetcode.com/Veeresh_1104/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&amp;logo=LeetCode&amp;logoColor=black" alt="leetcode"></a>  <a href="https://auth.geeksforgeeks.org/user/veereshravi/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=white" alt="geeksforgeeks"></a></p>
 <blockquote>
-<p>Enjoy a Harvey Specter Quote ➡️ 97% of people who gave up are employed by the 3% who never gave up.</p>
+<p>Enjoy a Harvey Specter Quote ➡️ Work until you no longer have to inroduce yourself</p>
 </blockquote>
 <hr>
 <h3>Currently Working ➡️  <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="0"></h3>
-<p><a href="https://www.linkedin.com/in/veeresh-r-g-b0bab7135/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin Badge"></a>  <a href="https://twitter.com/Veeresh_11"><img src="https://img.shields.io/badge/-@Veeresh-3B7EBF?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Twitter Badge"></a>  <img src="https://komarev.com/ghpvc/?username=Veeresh-R-G&amp;style=for-the-badge" alt="Profile Views Count Badge"> <a href="https://www.strava.com/athletes/106308092"><img src="badge.svg" alt="Strava Badge"></a></p>
+<p><a href="https://www.linkedin.com/in/veeresh-r-g-b0bab7135/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin Badge"></a>  <a href="https://twitter.com/Veeresh_11"><img src="https://img.shields.io/badge/-@Veeresh-3B7EBF?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Twitter Badge"></a>   <a href="https://www.strava.com/athletes/106308092"><img src="badge.svg" alt="Strava Badge"></a></p>
 <blockquote>
 <p>PS: This README is auto generated using a Node.js script</p>
 </blockquote>
