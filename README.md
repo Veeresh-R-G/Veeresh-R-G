@@ -1,5 +1,5 @@
 <hr>
-<p><img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM3NzkyMTUsIm5iZiI6MTcwMzc3ODkxNSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjI4VDE1NTUxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk5ZGI3MDY1ZWFiNTNjNmM5OTFlNTZjNDcwYTEwYjczYzM1MDFkZDAxZTk1N2NmZGUyZTNjMzI0NzI3MWIxYWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.vPY4aRxhALmkjhi1pd5mZkVEAYtB8Sfckz9V7VuCNfw" alt="HI"></p>
+<p><img src="cool_banner.png" alt="HI"></p>
 <h1>Hello World, I am Veeresh R G 👋</h1>
 <h2>👨‍💻 Languages</h2>
 <h2><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="0">  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="1">  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="2">  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&amp;logo=python&amp;logoColor=blue" alt="3">  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="4"></h2>
@@ -24,7 +24,7 @@
 <h2>&lt;&gt; Coding platforms</h2>
 <p><a href="https://leetcode.com/Veeresh_1104/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&amp;logo=LeetCode&amp;logoColor=black" alt="leetcode"></a>  <a href="https://auth.geeksforgeeks.org/user/veereshravi/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=white" alt="geeksforgeeks"></a></p>
 <blockquote>
-<p>Enjoy a Harvey Specter Quote ➡️ According to me is the only according to that matters.</p>
+<p>Enjoy a Harvey Specter Quote ➡️ Loyalty is a two way street, if I am asking it from you, then you are getting it from me.</p>
 </blockquote>
 <hr>
 <h3>Currently Working ➡️  <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="0"></h3>
